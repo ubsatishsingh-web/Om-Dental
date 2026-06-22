@@ -1,0 +1,8 @@
+{
+  "name": "3D High-tech Dental Master Copy",
+  "description": "High-tech 3D platform for Om Dental and Orthodontic Clinic, Lucknow. Dr. Vivek Singh (MDS, BDS), Orthodontist and Dentofacial Orthopedics specialist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
